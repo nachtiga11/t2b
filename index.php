@@ -263,3 +263,4 @@ mb_internal_encoding("UTF-8");
 <script src="js/bootstrap.js"></script>
 </body>
 </html>
+Привет
