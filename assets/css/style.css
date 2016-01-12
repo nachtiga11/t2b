@@ -1,0 +1,28 @@
+.hd{
+	background-color: dodgerblue;
+}
+
+.title,
+.subtitle { 
+	font-family: 'Wire One', Helvetica, Arial, sans-serif;
+	font-weight:normal;
+	font-size:4em;
+	margin-bottom:7px;
+	margin-top: 7px; 
+	color: white; 
+	line-height:1em;
+}
+
+.logo{
+	margin-top: 7px;
+}
+
+.company_hd{
+	font-family: 'Wire One', Helvetica, Arial, sans-serif;
+	font-weight:normal;
+	font-size:2em;
+	margin-bottom:7px;
+	margin-top: 10px; 
+	color: white; 
+	line-height:1em;
+}
